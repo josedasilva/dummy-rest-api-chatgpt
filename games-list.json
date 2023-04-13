@@ -1,0 +1,12 @@
+[
+  {
+  "home_team_id": 1, "home_team_name": "Academia 8 janeiro", "home_team_score": 4,"away_team_id": 2, "away_team_name": "Sporting CP", "away_team_score": 1
+  },
+  {
+  "home_team_id": 3, "home_team_name": "SL Benfica", "home_team_score": 3, "away_team_id": 4, "away_team_name": "Guilhabreu", "away_team_score": 2
+  },
+  {
+  "home_team_id": 5, "home_team_name": "Vitoria Setubal", "home_team_score": 2,"away_team_id": 6, "away_team_name": "CTM Setubal", "away_team_score": 3
+  },
+  
+]
